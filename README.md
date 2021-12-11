@@ -3,7 +3,6 @@ Created in 2017
 Author: Flaviano Morone
 
 # Network-Groupoids
-
 Groupoid Algorithm to find balanced network partitions 
 
 To compile the source code use the command

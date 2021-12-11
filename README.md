@@ -20,7 +20,7 @@ where - NETWORK_FILENAME - is the file containing the network.
 
 The data structure in the file containing the network must be formatted as an adjacency matrix A_ij with 3 admissibile values: A_ij = -1,0,1.  
 
-In output, the program prints at screen the node ID and its "color ID". Nodes with same color belong to the same balanced partition. 
+At output, the program prints at screen the node ID and its "color ID". Nodes with same color belong to the same balanced partition. 
 
 
 
